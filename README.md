@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Java & JavaScript
 - 🤔 I’m looking for help with programming at all :)
 - 📫 How to reach me: **breno.fp@hotmail.com**
-- ⚡ Fun fact: I am a brazilian 🇧🇷 that lives in Germany 🇩🇪
+- ⚡ Fun fact: I am a brazilian 🇧🇷 who lives in Germany 🇩🇪
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-me&theme=dracula)](https://github.com/breno-me/github-readme-stats)
