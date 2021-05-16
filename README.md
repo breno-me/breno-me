@@ -7,7 +7,7 @@
 
 [![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno-me&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/breno-me/github-readme-stats)
 
-- 🔭 I’m currently working on my future and investing on crytos #dogecoins
+- 🔭 I’m currently working on my future and investing on crytos #dogecoin
 - 🌱 I’m currently learning Java & JavaScript
 - 🤔 I’m looking for help with programming at all :)
 - 📫 How to reach me: **breno.fp@hotmail.com**
