@@ -8,9 +8,9 @@
 [![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno-me&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/breno-me/github-readme-stats)
 
 - 🔭 I’m currently working on my future and investing in crytos #dogecoin
-- 🌱 I’m currently learning Java & JavaScript
+- 🌱 I’m currently learning Java & JavaScript; HTML; CSS
 - 🤔 I’m looking for help with programming at all :)
-- 📫 How to reach me: **breno.fp@hotmail.com**
+- 📫 How to reach me: **breno.fp@hotmail.com** or **https://breno-me.github.io/breno.pinheiro.github.io/**
 - ⚡ Fun fact: I am a brazilian 🇧🇷 who lives in Germany 🇩🇪
 
 
