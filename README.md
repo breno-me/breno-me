@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/brenopinheiroo" target="blank"><img src="https://img.shields.io/twitter/follow/brenopinheiroo?logo=twitter&style=for-the-badge" alt="brenopinheiroo" /></a> </p>
 
-[![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno-me&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/breno-me/github-readme-stats)
+[![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno-me&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/breno-pinheiro/github-readme-stats)
 
 - 🔭 I’m currently working on my future and investing in crytos #dogecoin
 - 🌱 I’m currently learning Java & JavaScript; HTML; CSS
 - 🤔 I’m looking for help with programming at all :)
-- 📫 How to reach me: **breno.fp@hotmail.com** or **https://breno-me.github.io/breno.pinheiro.github.io/**
+- 📫 How to reach me: **breno.fp@hotmail.com** or **https://breno-pinheiro.github.io/breno.pinheiro.github.io/**
 - ⚡ Fun fact: I am a brazilian 🇧🇷 who lives in Germany 🇩🇪
 
 
