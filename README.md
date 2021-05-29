@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/brenopinheiroo" target="blank"><img src="https://img.shields.io/twitter/follow/brenopinheiroo?logo=twitter&style=for-the-badge" alt="brenopinheiroo" /></a> </p>
 
-[![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno-me&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/breno-pinheiro/github-readme-stats)
+[![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno-pinheiro&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/breno-pinheiro/github-readme-stats)
 
 - 🔭 I’m currently working on my future and investing in crytos #dogecoin
 - 🌱 I’m currently learning Java & JavaScript; HTML; CSS
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I am a brazilian 🇧🇷 who lives in Germany 🇩🇪
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-me&theme=dracula)](https://github.com/breno-me/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-pinheiro&theme=dracula)](https://github.com/breno-pinheiro/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
